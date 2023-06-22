@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sedat. I am a Frontend and Mobile Developer.
-- 👀 I’m using React.Js, React Native and Node.Js.
-- 🌱 I’m currently learning GraphQL. I want to be a Full-Stack Developer.
+- 👀 I’m using React.Js, React Native, Typescript and Node.Js.
+- 🌱 I’m creating and implementing REST APIs.
 - 📫 You can reach me from sedatturkoglu16@gmail.com
